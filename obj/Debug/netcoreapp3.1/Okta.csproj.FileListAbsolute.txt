@@ -1,0 +1,146 @@
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.exe
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.deps.json
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.runtimeconfig.json
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.runtimeconfig.dev.json
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.pdb
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.Views.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Okta.Views.pdb
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.csprojAssemblyReference.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.AssemblyInfoInputs.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.AssemblyInfo.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.csproj.CoreCompileInputs.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.RazorAssemblyInfo.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.RazorAssemblyInfo.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\staticwebassets\Okta.StaticWebAssets.Manifest.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\staticwebassets\Okta.StaticWebAssets.xml
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\scopedcss\bundle\Okta.styles.css
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.TagHelpers.input.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.TagHelpers.output.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.RazorCoreGenerate.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Device\Success.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Nav.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.RazorTargetAssemblyInfo.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.RazorTargetAssemblyInfo.cs
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.Views.pdb
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.csproj.CopyComplete
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.dll
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.pdb
+C:\Users\verscs4\Documents\Okta\identityserver4\obj\Debug\netcoreapp3.1\Okta.genruntimeconfig.cache
+C:\Users\verscs4\Documents\Okta\identityserver4\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\published\web.config
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\published\Okta.deps.json
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\published\Okta.runtimeconfig.json
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.exe
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.deps.json
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.runtimeconfig.json
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.runtimeconfig.dev.json
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.pdb
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.Views.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Okta.Views.pdb
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\IdentityModel.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\IdentityServer4.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\IdentityServer4.Storage.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\RestSharp.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.AspNetCore.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.Extensions.Hosting.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.Extensions.Logging.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.Formatting.Compact.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.Settings.Configuration.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.Sinks.Console.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.Sinks.Debug.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\Serilog.Sinks.File.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.AssemblyInfoInputs.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.AssemblyInfo.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.csproj.CoreCompileInputs.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.RazorAssemblyInfo.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.RazorAssemblyInfo.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\staticwebassets\Okta.StaticWebAssets.Manifest.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\staticwebassets\Okta.StaticWebAssets.xml
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\scopedcss\bundle\Okta.styles.css
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.TagHelpers.input.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.TagHelpers.output.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.RazorCoreGenerate.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Account\AccessDenied.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Account\LoggedOut.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Account\Login.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Account\Logout.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Consent\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Device\Success.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeCapture.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Device\UserCodeConfirmation.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Diagnostics\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Grants\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Redirect.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Nav.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ScopeListItem.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationSummary.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.RazorTargetAssemblyInfo.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.RazorTargetAssemblyInfo.cs
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.Views.pdb
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.csproj.CopyComplete
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.dll
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.pdb
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.genruntimeconfig.cache
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\bin\Debug\netcoreapp3.1\okta.pfx
+C:\Users\verscs4\Documents\Okta\RBFA STS\rbfa-okta-sts-proxy\obj\Debug\netcoreapp3.1\Okta.csprojAssemblyReference.cache
